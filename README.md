@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning electronics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: brazzawalidmokrane@gmail.com
-- ⚡ Fun fact: bugs programs are called bugs because in the early days of the computers, bugs would cause short circuits creating problems when executing programs.
+- ⚡ Fun fact: bugs in programs are called "bugs", because in the early days of the computers, incects would cause short circuits creating problems when executing programs.
   Hence the name bugs  
 
 <!---
